@@ -1,11 +1,22 @@
 baseURL = "https://asarmakeeva.github.io/new_website"
 languageCode = "en-us"
-title = "Nastya"
+title = "Anastasiia Sarmakeeva"
 theme = "PaperMod"
+
+[params.homeInfoParams]
+Title = "Hi, I’m Anastasiia"
+Content = """
+Machine Learning Engineer (PhD) working on computer vision, synthetic data, and reproducible ML.
+
+I’ve worked on large-scale medical imaging datasets at the FDA and publish open-source research in machine learning, computer vision and compuataional fluid dynamic simulation field.
+"""
 
 [params]
   ShowReadingTime = true
   ShowShareButtons = false
+
+# What sections appear on the home list
+mainSections = ["posts"]
 
 [[menu.main]]
   name = "Bio"

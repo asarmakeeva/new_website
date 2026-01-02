@@ -1,40 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nastya</title>
+    <title>Anastasiia Sarmakeeva</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Nastya</description>
+    <description>Recent content on Anastasiia Sarmakeeva</description>
     <generator>Hugo -- 0.154.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 11:52:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Fri, 02 Jan 2026 11:52:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cv</title>
-      <link>http://localhost:1313/cv/</link>
-      <pubDate>Fri, 02 Jan 2026 11:51:54 -0500</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
-      <pubDate>Fri, 02 Jan 2026 11:51:49 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;t-synth-synthetic-breast-imaging-dataset&#34;&gt;T-SYNTH: Synthetic Breast Imaging Dataset&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Lead Co-Contributor&lt;br&gt;
+&lt;strong&gt;Context:&lt;/strong&gt; U.S. Food and Drug Administration (FDA)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;T-SYNTH&lt;/strong&gt; is a large-scale, open-source dataset of &lt;strong&gt;synthetic breast imaging data&lt;/strong&gt; designed to support training and evaluation of detection and segmentation models in medical imaging.&lt;/p&gt;
+&lt;p&gt;The dataset contains paired &lt;strong&gt;2D digital mammography (DM)&lt;/strong&gt; and &lt;strong&gt;3D digital breast tomosynthesis (DBT)&lt;/strong&gt; images generated using &lt;strong&gt;knowledge-based, physics-driven simulations&lt;/strong&gt;. It complements the previously released &lt;strong&gt;M-SYNTH&lt;/strong&gt; dataset and addresses key limitations of real-world annotated medical data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PowerTransplant</title>
+      <link>http://localhost:1313/posts/powertransplant/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/powertransplant/</guid>
+      <description>A personal zine about people who can’t go back to their homeland — just like me.</description>
     </item>
     <item>
       <title>Bio</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Write your bio here.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Anastasiia&lt;/strong&gt; — a &lt;strong&gt;Machine Learning Engineer with a PhD&lt;/strong&gt;, working at the intersection of &lt;strong&gt;computer vision, synthetic data, and reproducible research&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I focus on building and evaluating ML systems for high-stakes domains, with particular experience in &lt;strong&gt;medical imaging&lt;/strong&gt;, &lt;strong&gt;generative models&lt;/strong&gt;, and &lt;strong&gt;data-centric AI&lt;/strong&gt;. My work emphasizes rigor, interpretability, and reproducibility.&lt;/p&gt;
+&lt;p&gt;I am one of the contributors to &lt;strong&gt;&lt;a href=&#34;https://github.com/DIDSR/tsynth-release&#34;&gt;T-SYNTH&lt;/a&gt;&lt;/strong&gt; — an open-source synthetic medical imaging dataset for breast cancer lesion detection, released in collaboration with the FDA and presented at &lt;strong&gt;MICCAI 2025&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;anastasiia-sarmakeeva-phd&#34;&gt;Anastasiia Sarmakeeva, PhD&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Machine Learning Engineer · Computer Vision · Synthetic Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📧 &lt;a href=&#34;mailto:asarmakeeva@gmail.com&#34;&gt;asarmakeeva@gmail.com&lt;/a&gt;&lt;br&gt;
+🔗 &lt;a href=&#34;https://linkedin.com/in/anastasiia-sarmakeeva&#34;&gt;LinkedIn&lt;/a&gt; · &lt;a href=&#34;https://github.com/asarmakeeva&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Machine Learning Engineer (PhD) with &lt;strong&gt;6+ years of research and production experience&lt;/strong&gt; in computer vision, medical imaging, and generative models. Published at &lt;strong&gt;MICCAI 2025&lt;/strong&gt; on large-scale synthetic medical imaging datasets. Strong background in &lt;strong&gt;geometry-aware ML&lt;/strong&gt;, &lt;strong&gt;reproducible research&lt;/strong&gt;, and &lt;strong&gt;production-grade PyTorch/C++ pipelines&lt;/strong&gt;. Experienced in collaborating across research, software, and regulatory teams.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Programming &amp;amp; Systems&lt;/strong&gt;&lt;br&gt;
+Python, C++, Git, Bash, CUDA, Docker&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
