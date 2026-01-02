@@ -1,0 +1,29 @@
+baseURL = "https://asarmakeeva.github.io/"
+languageCode = "en-us"
+title = "Nastya"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = false
+
+[[menu.main]]
+  name = "Bio"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 4
+
