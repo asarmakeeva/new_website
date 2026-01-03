@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Anastasiia Sarmakeeva</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Anastasiia Sarmakeeva</description>
+    <title>System Design on Anastasiia Sarmakeeva</title>
+    <link>http://localhost:1313/tags/system-design/</link>
+    <description>Recent content in System Design on Anastasiia Sarmakeeva</description>
     <generator>Hugo -- 0.154.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/system-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ML System Design Example Sepsis Detection</title>
+      <title>ML System Design Example</title>
       <link>http://localhost:1313/posts/ml_system_design_example/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ml_system_design_example/</guid>
-      <description>Example of sepsis detection with ML</description>
-    </item>
-    <item>
-      <title>PowerTransplant</title>
-      <link>http://localhost:1313/posts/powertransplant/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/powertransplant/</guid>
       <description>A personal zine about people who can’t go back to their homeland — just like me.</description>
     </item>
   </channel>

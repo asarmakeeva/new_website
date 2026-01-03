@@ -6,7 +6,7 @@
     <description>Recent content on Anastasiia Sarmakeeva</description>
     <generator>Hugo -- 0.154.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
@@ -18,6 +18,13 @@
 &lt;strong&gt;Context:&lt;/strong&gt; U.S. Food and Drug Administration (FDA)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;T-SYNTH&lt;/strong&gt; is a large-scale, open-source dataset of &lt;strong&gt;synthetic breast imaging data&lt;/strong&gt; designed to support training and evaluation of detection and segmentation models in medical imaging.&lt;/p&gt;
 &lt;p&gt;The dataset contains paired &lt;strong&gt;2D digital mammography (DM)&lt;/strong&gt; and &lt;strong&gt;3D digital breast tomosynthesis (DBT)&lt;/strong&gt; images generated using &lt;strong&gt;knowledge-based, physics-driven simulations&lt;/strong&gt;. It complements the previously released &lt;strong&gt;M-SYNTH&lt;/strong&gt; dataset and addresses key limitations of real-world annotated medical data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ML System Design Example Sepsis Detection</title>
+      <link>http://localhost:1313/posts/ml_system_design_example/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ml_system_design_example/</guid>
+      <description>Example of sepsis detection with ML</description>
     </item>
     <item>
       <title>PowerTransplant</title>
