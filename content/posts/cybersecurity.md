@@ -1,6 +1,6 @@
 ---
 title: "Nicole Perlroth on Cybersecurity in the Age of AI"
-date: 2026-01-03
+date: 2026-03-31
 draft: false
 tags: ["Cybersecurity", "AI"]
 summary: "Example of sepsis detection with ML"
