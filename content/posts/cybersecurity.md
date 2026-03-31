@@ -3,7 +3,7 @@ title: "Nicole Perlroth on Cybersecurity in the Age of AI"
 date: 2026-03-31
 draft: false
 tags: ["Cybersecurity", "AI"]
-summary: "Example of sepsis detection with ML"
+summary: "Summary after watching a video"
 ---
 
 Nicole Perlroth — former NYT cybersecurity journalist and advisor to CISA under the Biden administration — gives one of the more sobering takes on where we are right now. She spent years covering nation-state hacking for the Times and wrote *This Is How They Tell Me the World Ends*, a book about the zero-day vulnerability market. When she talks about cyber threats, she is not speculating.
